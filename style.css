@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 20rem;
+}
+head {
+    max-width: 600rem;
+    margin: 0 auto;
+    padding: 20rem;
+    background-color: #fff;
+    border-radius: 10rem;
+    box-shadow: 0 0 10rem rgba(0, 0, 0, 10%);
+}
+h3 {
+    font-size: 2rem;
+    color: #444;
+    margin-bottom: 10rem;
+}
